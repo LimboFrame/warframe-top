@@ -1,0 +1,59 @@
+footer {
+    background-color:black;
+    color: white;
+}
+
+footer p{
+    color:black;
+    background-color: white;
+}
+
+body {
+    font-family: sans-serif;
+    color:rgb(255, 255, 255);
+    background-color: black;
+}
+
+header {
+    background-color: black;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px
+}
+
+header img{
+    border: 2px solid white;
+    border-radius: 40px;
+    margin: 10px;
+}
+
+main h1{
+    text-align: center;
+}
+
+ main img {
+    height: 1000px;
+    width: 1470px;
+    text-align:center;
+}
+
+main h1,h2,{
+    font-family: kelt;
+}
+
+body p{
+    font-family: verdana;
+}
+
+header h1{
+    font-family: mekanik-let;
+}
+h2 {
+    text-align: center;
+}
